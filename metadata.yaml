@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26505'
     url: http://www.gutenberg.org/2009/agents/26505
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24451#The-Blue-WallA-Story-of-Strangeness-and-Struggle
 gutenberg_issued: '2008-01-29'
 gutenberg_type: Text
 identifiers:
