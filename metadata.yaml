@@ -1,0 +1,29 @@
+_repo: The-Blue-WallA-Story-of-Strangeness-and-Struggle_24451
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Child, Richard Washburn
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '26505'
+    url: http://www.gutenberg.org/2009/agents/26505
+description: ''
+gutenberg_issued: '2008-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcc 'PS'
+title: 'The Blue Wall
+
+  A Story of Strangeness and Struggle'
+url: http://www.gutenberg.org/ebooks/24451
